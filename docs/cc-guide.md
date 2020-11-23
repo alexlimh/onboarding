@@ -120,5 +120,6 @@ Compute Canada asks users not to install Anaconda on their clusters for various 
   
 * Anaconda: 
   One common workflow is to install Anaconda to your home directory for local Python package management, then save all data and models to the temporary `~/scratch` directory, which has a much higher disk quota.
+  Please follow this guide to install Anaconda on CC: https://www.digitalocean.com/community/tutorials/how-to-install-anaconda-on-ubuntu-18-04-quickstart
 
 These are the basic ways to use CC. If you have any questions, feel free to bug me (Jayden@slack) or check CC documentation.
